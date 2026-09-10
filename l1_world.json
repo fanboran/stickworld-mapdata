@@ -30778,9 +30778,9 @@
    "name": "城邦1",
    "capital_settlement_id": "settlement_city_1036",
    "color": [
-    67,
-    91,
-    34
+    98,
+    181,
+    176
    ]
   },
   {
@@ -30788,8 +30788,8 @@
    "name": "城邦2",
    "capital_settlement_id": "settlement_city_1034",
    "color": [
-    82,
     110,
+    111,
     41
    ]
   },
@@ -30798,9 +30798,9 @@
    "name": "城邦3",
    "capital_settlement_id": "settlement_city_1035",
    "color": [
-    96,
-    129,
-    49
+    157,
+    104,
+    152
    ]
   },
   {
@@ -30808,9 +30808,9 @@
    "name": "城邦4",
    "capital_settlement_id": "settlement_city_1038",
    "color": [
-    110,
-    148,
-    56
+    144,
+    163,
+    217
    ]
   },
   {
@@ -30818,9 +30818,9 @@
    "name": "城邦5",
    "capital_settlement_id": "settlement_city_1037",
    "color": [
-    124,
-    167,
-    63
+    189,
+    128,
+    94
    ]
   },
   {
@@ -30828,9 +30828,9 @@
    "name": "城邦6",
    "capital_settlement_id": "settlement_city_1040",
    "color": [
-    138,
-    186,
-    70
+    220,
+    170,
+    192
    ]
   },
   {
@@ -30838,9 +30838,9 @@
    "name": "城邦7",
    "capital_settlement_id": "settlement_city_1039",
    "color": [
-    153,
-    205,
-    78
+    107,
+    136,
+    75
    ]
   },
   {
@@ -30848,9 +30848,9 @@
    "name": "城邦8",
    "capital_settlement_id": "settlement_city_1033",
    "color": [
-    167,
-    225,
-    85
+    155,
+    190,
+    228
    ]
   }
  ],
