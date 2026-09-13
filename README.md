@@ -15,8 +15,7 @@
 ## 道路数据（E1）
 
 - 各 `l1_world.json` 的 `roads`：`{from, to, tier, length_px, polyline[]}`——tier 为 `DIRT`（土路）/`PAVED`（官道，T3+ 重镇间）；polyline 为该包 context 本地坐标 `[x,y]`，端点与聚落 `position_px` 精确对齐。群岛跨海 MST 边无陆路，保留 `{from,to}` 直线（运行时回退直线连线，语义 = 不可达）。
-- `roads_global.json`：全大陆路网（8192 全局坐标，含跨 L1 边），E3 快速旅行连通性 / E4 道路场景的数据源。
-- 生成：`python tools/worldgen/l1/road_generate.py`（参数外置 `l1/road_params.json`；预览 `tools/worldgen/output/roads_preview_2048.png`）。**改 json 后须重跑 `l_world_bake.gd` 刷 bin**。
+- 生成：`python tools/worldgen/l1/road_generate.py`（参数外置 `l1/road_params.json`；全大陆路网参考产物 `output/roads_global.json` 与预览 `output/roads_preview_2048.png` 均在生成端 output/，运行时只读各包 roads 字段）。**改 json 后须重跑 `l_world_bake.gd` 刷 bin**。
 
 ## L2 烘焙产物（.bin）
 
@@ -41,5 +40,4 @@ python l2_export/export_l3_view.py    # → 本目录 L3 素材
 
 ## 其他
 
-- `color_map.json`：索引图颜色 → label 映射
 - `buildings/`：L1 定居点建筑数据（独立于世界生成）
