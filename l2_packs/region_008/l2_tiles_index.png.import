@@ -15,9 +15,8 @@ dest_files=["res://.godot/imported/l2_tiles_index.png-2e98788f11c562f84ac35b8a53
 
 [params]
 
-compress/mode=1
+compress/mode=0
 compress/high_quality=false
-compress/lossy_quality=0.85
 compress/uastc_level=0
 compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
