@@ -17,6 +17,7 @@ dest_files=["res://.godot/imported/l2_political_id.png-5101e133d8ded2c94cd2c049b
 
 compress/mode=0
 compress/high_quality=false
+compress/lossy_quality=0.7
 compress/uastc_level=0
 compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
