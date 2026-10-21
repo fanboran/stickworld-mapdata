@@ -40,4 +40,4 @@ python l2_export/export_l3_view.py    # → 本目录 L3 素材
 
 ## 其他
 
-- `buildings/`：L1 定居点建筑数据（独立于世界生成）
+- `buildings/`：L1 聚落建筑数据（独立于世界生成）
