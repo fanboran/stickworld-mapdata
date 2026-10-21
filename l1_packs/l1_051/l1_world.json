@@ -51084,15 +51084,7 @@
    ]
   }
  ],
- "resources": [
-  {
-   "id": "res_black_asphalt",
-   "pos": [
-    633.36,
-    786.24
-   ]
-  }
- ],
+ "resources": [],
  "neighbors": [
   {
    "label": 3,

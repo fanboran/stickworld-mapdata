@@ -42762,15 +42762,7 @@
    ]
   }
  ],
- "resources": [
-  {
-   "id": "res_black_asphalt",
-   "pos": [
-    741.48,
-    493.22
-   ]
-  }
- ],
+ "resources": [],
  "neighbors": [
   {
    "label": 7,
